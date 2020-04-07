@@ -7,7 +7,7 @@ The way this application does can be understood by the example given at the end.
 #### Build steps
 ````
 mvn clean - to clean the target directory
-mvn install - to generate a jar file out of the spring boot project
+mvn install - to generate a executable jar file out of the spring boot project
 ````
 
 #### Running the Service

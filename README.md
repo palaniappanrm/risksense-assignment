@@ -22,6 +22,7 @@ java -jar -Dserver.port={customport} target/JsontoXML-1.0.0.jar to start the spr
 GET Request :
 http://localhost:8080/jsonToXml?jsonFilePath=large.json&xmlFilePath=output.xml
 
+Explanation for the above API call :
 large.json file should be present at the project level. 
 If file doesn't exist or the file is not of json structure, appropriate ERROR logs will be printed with exception.
 

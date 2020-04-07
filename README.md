@@ -1,8 +1,8 @@
 # risksense-assignment
 
 Spring Boot application with single rest endpoint which can be used to convert json to xml by 
-specifying the source and destination file path. There are different ways we can do convert between json and xml.
-The way this application does can be understood by the example given at the end
+specifying the source and destination file path. There are different ways we can do conversion between json and xml.
+The way this application does can be understood by the example given at the end.
 
 #### Build steps
 ````
